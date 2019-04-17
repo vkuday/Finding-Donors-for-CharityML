@@ -23,14 +23,6 @@ Template code is provided in the `finding_donors.ipynb` notebook file. You will 
 
 In a terminal or command window, navigate to the top-level project directory `finding_donors/` (that contains this README) and run one of the following commands:
 
-```bash
-ipython notebook finding_donors.ipynb
-```  
-or
-```bash
-jupyter notebook finding_donors.ipynb
-```
-
 This will open the iPython Notebook software and project file in your browser.
 
 ### Data
