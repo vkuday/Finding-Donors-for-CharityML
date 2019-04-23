@@ -11,10 +11,6 @@ This project requires **Python 3.x** and the following Python libraries installe
 - [matplotlib](http://matplotlib.org/)
 - [scikit-learn](http://scikit-learn.org/stable/)
 
-You will also need to have software installed to run and execute an [iPython Notebook](http://ipython.org/notebook.html)
-
-We recommend students install [Anaconda](https://www.continuum.io/downloads), a pre-packaged Python distribution that contains all of the necessary libraries and software for this project. 
-
 ### Code
 
 Template code is provided in the `finding_donors.ipynb` notebook file. You will also be required to use the included `visuals.py` Python file and the `census.csv` dataset file to complete your work. While some code has already been implemented to get you started, you will need to implement additional functionality when requested to successfully complete the project.
